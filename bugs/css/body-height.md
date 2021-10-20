@@ -34,8 +34,8 @@
 > Now just set the height and width of the `html` and `body` element. This is in the *CSS* language
 ```css
 hmtl, body {
-  height: 100%
-  width: 100%
+  height: 100%;
+  width: 100%;
 }
 ```
 
@@ -50,8 +50,8 @@ For example:
 
 Now just do this in your css code:
 html, body {
-  height: 100%
-  width: 100%
+  height: 100%;
+  width: 100%;
 }
 
  !! Better explanation on github: sokiGit/helpForScripters/bugs/html/body-height.md
