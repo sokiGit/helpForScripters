@@ -29,6 +29,13 @@
   </body>
 </html>
 ```
+> Now just set the height and width of the `html` and `body` element. This is in the *CSS* language
+```css
+hmtl, body {
+  height: 100%
+  width: 100%
+}
+```
 
 *Grepper answer:*
 ```html
@@ -38,6 +45,12 @@ This is caused by a class name being set to "body". This can be applied to any o
 For example:
   <div class="body"> - This is the WRONG code! Becouse "body" is a name of an element.
   <div class="container"> - This is the RIGHT code! Becouse "container" is not a name of an element.
+
+Now just do this in your css code:
+html, body {
+  height: 100%
+  width: 100%
+}
 
  !! Better explanation on github: sokiGit/helpForScripters/bugs/html/body-height.md
 
