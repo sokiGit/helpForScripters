@@ -30,7 +30,7 @@
 </html>
 ```
 
-*Grepper answer: *
+*Grepper answer:*
 ```html
 <!--
 
